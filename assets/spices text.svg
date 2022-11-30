@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 942.26 747.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-size: 364.38px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: CoveredByYourGrace, 'Covered By Your Grace';
+      }
+
+      .cls-2 {
+        fill: #e12a26;
+        font-size: 488.74px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 611.03)"><tspan x="0" y="0">Spicies</tspan></text>
+  <text class="cls-2" transform="translate(880.69 434.09)"><tspan x="0" y="0">.</tspan></text>
+</svg>
